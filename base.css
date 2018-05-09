@@ -1,0 +1,21 @@
+html,body {width: auto;} 
+
+      #right-tab-header { background-color: skyblue;  }
+
+      @media only screen and (width: 767px){
+        #right-tab-header { height: 5%; }
+      }
+
+      div > i { width: 100%; max-width: 4px; }
+
+      @media only screen and (max-width: 1199px){
+        #right-tab-header { height: 12%; }
+      }
+
+      
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700,800&subset=cyrillic,cyrillic-ext');
+
+body {
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight: 400;
+  }
