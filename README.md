@@ -1,6 +1,6 @@
 # Homepage
 
-##Hi, there!
+## Hi, there!
 
 My very own personal website. Basically this is just a résumé.
 Simply static page, that is hosted on [**GitHub Pages**](https://pages.github.com/).
