@@ -21,6 +21,16 @@ div > i {
   color: white;
   text-decoration: underline;
 }
+.description {
+  font-size: x-small;
+}
+.subheader {
+  font-size: small;
+  margin-bottom: 0px;
+}
+.tech-stack {
+  padding-left: 10px; 
+}
 @media only screen and (width: 767px) {
   #right-tab-header {
     height: 5%;
