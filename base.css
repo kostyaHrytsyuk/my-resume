@@ -6,7 +6,9 @@ body {
   font-family: 'Open Sans', sans-serif !important;
   font-weight: 400;
 }
-
+.row{
+  width: 100% !important;
+}
 div > i {
   width: 100%;
   max-width: 4px;
@@ -35,7 +37,7 @@ div > i {
   padding-left: 10px; 
 }
 .separator{
-  border-bottom: 3px solid #a29b9b ;
+  border-bottom: 2px solid #a29b9b ;
 }
 @media only screen and (width: 767px) {
   #right-tab-header {
