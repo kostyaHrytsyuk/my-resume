@@ -12,13 +12,16 @@ div > i {
   max-width: 4px;
 }
 .contact-info {
-  font-size: 11px;
+  font-size: 16px;
+}
+.contact-border {
+  border-right: 2px solid #a29b9b;
+  padding-right: .5rem;
 }
 .right-tab-header {
   background-color: skyblue;
 }
 .social-link {
-  color: white;
   text-decoration: underline;
 }
 .description {
@@ -30,6 +33,9 @@ div > i {
 }
 .tech-stack {
   padding-left: 10px; 
+}
+.separator{
+  border-bottom: 3px solid #a29b9b ;
 }
 @media only screen and (width: 767px) {
   #right-tab-header {
