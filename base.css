@@ -40,6 +40,9 @@ div > i {
 .separator{
   border-bottom: 2px solid #a29b9b ;
 }
+.col-xs-12, .col-sm-12, .col-md-12 {
+  padding-right:0px 
+}
 @media only screen and (width: 767px) {
   #right-tab-header {
     height: 5%;
