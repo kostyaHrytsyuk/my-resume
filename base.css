@@ -1,5 +1,6 @@
 html,body {
   width: auto;
+  background-color: #F5F5EE !important;
 } 
 
 body {
@@ -27,11 +28,11 @@ div > i {
   text-decoration: underline;
 }
 .description {
-  font-size: x-small;
-}
-.subheader {
   font-size: small;
   margin-bottom: 0px;
+}
+.subheader {
+
 }
 .tech-stack {
   padding-left: 10px; 
