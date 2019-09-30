@@ -31,14 +31,13 @@ div > i {
   font-size: small;
   margin-bottom: 0px;
 }
-.subheader {
-
+.section-header {
+  border-bottom: 2px solid #a29b9b;
+  display: inline-flex;
+  width: 100%;
 }
 .tech-stack {
   padding-left: 10px; 
-}
-.separator{
-  border-bottom: 2px solid #a29b9b ;
 }
 .col-xs-12, .col-sm-12, .col-md-12 {
   padding-right:0px 
