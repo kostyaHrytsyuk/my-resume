@@ -41,8 +41,15 @@ div > i {
   margin-bottom: 1rem;
   width: 100%;
 }
+.sub-section-header{
+  display: flex;
+  justify-content: space-between;
+}
 .sub-section-text {
   padding-left: 1em;
+}
+.sub-section-text ul{
+  width: 80%;
 }
 .tech-stack {
   padding-left: 10px; 
