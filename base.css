@@ -57,6 +57,9 @@ div > i {
 .col-xs-12, .col-sm-12, .col-md-12 {
   padding-right:0px 
 }
+.activity{
+  width: 70%;
+}
 @media only screen and (width: 767px) {
   #right-tab-header {
     height: 5%;
