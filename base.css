@@ -36,6 +36,14 @@ div > i {
   display: inline-flex;
   width: 100%;
 }
+.sub-section {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: 100%;
+}
+.sub-section-text {
+  padding-left: 1em;
+}
 .tech-stack {
   padding-left: 10px; 
 }
