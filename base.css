@@ -60,6 +60,9 @@ div > i {
 .activity{
   width: 70%;
 }
+.activity h6 {
+  font-weight: 700;
+}
 @media only screen and (width: 767px) {
   #right-tab-header {
     height: 5%;
