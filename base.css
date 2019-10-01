@@ -63,6 +63,14 @@ div > i {
 .activity h6 {
   font-weight: 700;
 }
+#stack-tech {
+  margin: auto;
+  width: 80%;
+}
+#stack-tech .sub-section {
+  margin-bottom: 0;
+  margin-top: 0.3rem;
+}
 #stack-tech ul {
   padding-left:0px; 
 }
