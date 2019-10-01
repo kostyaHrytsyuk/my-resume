@@ -63,6 +63,9 @@ div > i {
 .activity h6 {
   font-weight: 700;
 }
+#stack-tech ul {
+  padding-left:0px; 
+}
 @media only screen and (width: 767px) {
   #right-tab-header {
     height: 5%;
