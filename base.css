@@ -64,7 +64,8 @@ div > i {
   font-weight: 700;
 }
 #stack-tech {
-  margin: auto;
+  display: flex;
+  margin: auto; 
   width: 80%;
 }
 #stack-tech .sub-section {
@@ -72,7 +73,16 @@ div > i {
   margin-top: 0.3rem;
 }
 #stack-tech ul {
+  margin-bottom: 0px; 
   padding-left:0px; 
+}
+#stack-tech .section-header{
+  border-bottom: none;
+  margin-top: 2em;
+  width: auto;
+}
+#stack-tech h5{
+  margin-top: 2px;
 }
 @media only screen and (width: 767px) {
   #right-tab-header {
