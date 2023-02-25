@@ -3,6 +3,10 @@ html,body {
   background-color: #F5F5EE !important;
 } 
 
+ul {
+  margin-bottom: 0.5rem;
+}
+
 body {
   font-family: 'Open Sans', sans-serif !important;
   font-weight: 400;
