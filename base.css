@@ -88,6 +88,15 @@ div > i {
 #stack-tech h5{
   margin-top: 2px;
 }
+
+.certification {
+  display: flex;
+}
+
+.certification a {
+  margin-top: -2px;
+}
+
 @media only screen and (width: 767px) {
   #right-tab-header {
     height: 5%;
